@@ -1,0 +1,102 @@
+[Root]
+Most Recent Package=Standardm‰ﬂiges Setup-Paket 1
+
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WIN98\Desktop\Sonic\Sonic\Paket
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Found]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Released]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Missing Dependency Information]
+C:\WIN98\SYSTEM\MSDXM.OCX=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Out-of-Date Dependency Information]
+C:\WIN98\SYSTEM\MSCOMCTL.OCX=
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Added]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files Removed]
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Files In Project]
+C:\WIN98\Desktop\Sonic\Sonic\SONIC.EXE=Yes
+C:\WIN98\SYSTEM\MSVBVM60.DLL=Yes
+C:\WIN98\SYSTEM\OLEAUT32.DLL=Yes
+C:\WIN98\SYSTEM\Olepro32.dll=Yes
+C:\WIN98\SYSTEM\Asycfilt.dll=Yes
+C:\WIN98\SYSTEM\STDOLE2.TLB=Yes
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WIN98\SYSTEM\VB6DE.DLL=Yes
+C:\WIN98\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WIN98\SYSTEM\MSCMCDE.DLL=Yes
+C:\WIN98\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WIN98\SYSTEM\MSCC2DE.DLL=Yes
+C:\WIN98\SYSTEM\MSDXM.OCX=Yes
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WIN98\SYSTEM\VB6STKIT.DLL=Yes
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Install Locations]
+C:\WIN98\Desktop\Sonic\Sonic\SONIC.EXE=$(AppPath)
+C:\WIN98\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\Olepro32.dll=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\Asycfilt.dll=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WIN98\SYSTEM\VB6DE.DLL=$(WinSysPath)
+C:\WIN98\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WIN98\SYSTEM\MSCMCDE.DLL=$(WinSysPath)
+C:\WIN98\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WIN98\SYSTEM\MSCC2DE.DLL=$(WinSysPath)
+C:\WIN98\SYSTEM\MSDXM.OCX=$(WinSysPath)
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WIN98\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Configure Shared Files]
+Applicable=Yes
+C:\WIN98\Desktop\Sonic\Sonic\SONIC.EXE=No
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Distribution]
+Type=single
+Size=
+Title=sonic
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|IconGroups]
+Group0=sonic
+PrivateGroup0=Wahr
+Parent0=$(Programs)
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|sonic]
+Icon1=sonic.exe
+Title1=sonic
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standardm‰ﬂiges Setup-Paket 1|Package]
+PackageFolder=C:\WIN98\Desktop\Sonic\Sonic\Paket
+ProjectFolder=C:\WIN98\Desktop\Sonic\Sonic
+ServerSideCab=
+File1=C:\WIN98\Desktop\Sonic\Sonic\Paket\setup.exe
+File2=C:\WIN98\Desktop\Sonic\Sonic\Paket\Setup.Lst
+File3=C:\WIN98\Desktop\Sonic\Sonic\Paket\sonic.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
