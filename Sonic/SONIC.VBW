@@ -1,0 +1,16 @@
+frmPlayer = 73, 36, 1009, 784, , 109, 97, 826, 821, C
+frmEinstellungen = 113, 58, 887, 883, , 13, 12, 941, 964, C
+frmSplash = 301, 258, 1018, 982, C, 46, 14, 763, 738, C
+frmVideo = 24, 25, 853, 894, C, 24, 63, 741, 787, C
+MODUL_Spriter = 280, 235, 997, 959, C
+CLASS_Spriter = 85, 132, 984, 729, C, 95, 154, 812, 878, C
+MODUL_Main = 74, 43, 1004, 945, C
+MODUL_Mp3 = 91, 161, 988, 1063, C
+frmEditor = 74, 98, 1142, 822, , 21, 23, 738, 747, C
+frmOwnMnu = 80, 35, 956, 889, C, 49, 28, 766, 752, C
+MenuItems = 198, 198, 915, 922, C
+QuickGDI = 0, 0, 0, 0, C
+PaintEffects = 0, 0, 0, 0, C
+SYSTRAY = 230, 318, 947, 1042, C
+frmNeuePlaylist = 40, 131, 991, 915, C, 331, 297, 1040, 1013, C
+frmMsgbox = 88, 88, 805, 812, C, 195, 233, 912, 957, C
